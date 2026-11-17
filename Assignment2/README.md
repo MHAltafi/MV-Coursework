@@ -4,7 +4,7 @@
 
 This assignment covers three computer vision tasks: line detection using the Hough Transform, face recognition using SIFT features, and image stitching using feature matching and RANSAC.
 
-## Q1. Line Detection using Hough Transform
+## Question 1. Line Detection using Hough Transform
 
 The Hough Transform was implemented from scratch to detect lines in two highway images.
 
@@ -24,7 +24,7 @@ Compared with RANSAC, the Hough Transform identifies multiple lines in a single 
 
 ![Hough Transform on Highway Image 2](figs/q1_hough_highway2.png)
 
-## Q2. Face Recognition using SIFT
+## Question 2. Face Recognition using SIFT
 
 A face recognition system was implemented using SIFT keypoints and descriptors.
 
@@ -44,7 +44,7 @@ The first test image of each individual was used as a query. The experiment was 
 
 A lower threshold produced better Rank-1 accuracy, while the higher threshold improved Rank-14 accuracy. This shows the effect of the matching threshold on the recognition results.
 
-## Q3. Image Stitching using Feature Matching and RANSAC
+## Question 3. Image Stitching using Feature Matching and RANSAC
 
 A panorama was generated from two overlapping images.
 
