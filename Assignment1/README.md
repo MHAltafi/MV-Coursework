@@ -1,7 +1,5 @@
 # Assignment 1 — Image Processing Fundamentals
 
-**Course:** Machine Vision
-
 This assignment covers fundamental image processing techniques, including contrast enhancement, histogram equalization, Fourier transform analysis, edge detection, image pyramids, and frequency-domain noise removal.
 
 ## Requirements
@@ -87,7 +85,7 @@ The procedure consists of:
 ## Repository Structure
 
 ```text
-Assignment-1/
+Assignment1/
 │
 ├── Assignment1.ipynb
 ├── imgs/
