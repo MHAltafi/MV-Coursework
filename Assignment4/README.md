@@ -49,7 +49,9 @@ RANSAC estimates the dominant motion while rejecting correspondences that do not
 
 **Result:**
 
-![Camera motion and moving object separation](figs/q3_motion_separation.png)
+<p align="center">
+  <img src="figs/q3_motion_separation.png" width="480">
+</p>
 
 ## Requirements
 
@@ -60,8 +62,8 @@ pip install numpy opencv-python matplotlib
 ## Repository Structure
 
 ```text
-Assignment-4/
-├── code.ipynb
+Assignment4/
+├── Assignment4.ipynb
 ├── img_and_vids/
 │   ├── 1.jpg
 │   ├── vid1.mp4
